@@ -2,7 +2,7 @@
 # to jest naglowek drugi
 ## **mniejszy naglowek**
 
-to jest chyba paragraf?
+to jest chyba paragraf?\
 tak, to jest paragraf wsm
 
 |tytul1|tytul2|
